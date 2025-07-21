@@ -1,6 +1,6 @@
 class vehicle{
   int speed = 100;
-  String color = "red";
+  String color = "green";
 
   void startcar(){
     print("car is starting");

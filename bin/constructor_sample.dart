@@ -1,6 +1,6 @@
 class student {
   String name = "Aazim";
-  int age = 21;
+  int age = 22;
   String grade = "A+";
   bool ispassed = true;
 
